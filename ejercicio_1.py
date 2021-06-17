@@ -1,3 +1,5 @@
+#crea un programa que te sume dos numeros pero 
+# al momento de sumar 2 + 2 te de pez
 
 print ("escribe un numero: ")
 numero1 = input()
