@@ -1,4 +1,5 @@
 "Imprimir la fecha y hora actuales."
+#hay varias formas de hacerlo
 import datetime 
 from time import localtime
 from time import timezone
