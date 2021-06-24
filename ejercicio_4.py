@@ -1,3 +1,6 @@
+"crea un programa que calcule cual es tu peso en la luna y los planetas que quieras"
+"y que calcule en cual pesas mas"
+
 print("¿cuanto pesas?: ")
 peso = float(input())
 gravedadTierra= 9.8
