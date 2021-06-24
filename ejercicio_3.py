@@ -1,3 +1,6 @@
+"crea un programa que te pida la fecha de nacimiento y que de tu fecha"
+"calcule cual es tu generacion"
+
 entrada = input("\nIngrese Dia, Mes y Año de nacimiento"
                     "(Separados por un espacio): ")
 dia_n, mes_n, anio_n = map(int, entrada.split())
