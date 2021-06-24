@@ -1,3 +1,6 @@
+"crea un codigo que te cuente cuantas veces se repite una letra ejemplo:"
+"si escribes 'aabba' el resultado seria se repiten 3 'a' y 2 'b'"
+
 print ("escribe algo: ")
 
 lista = input()
